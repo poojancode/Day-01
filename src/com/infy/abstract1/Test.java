@@ -6,6 +6,7 @@ public class Test {
 		A obj = new B();
 		obj.m1();
 		obj.m2();
+		obj.m3();
 		
 		A a1 = new B();
 		A a2 = new C();
@@ -16,5 +17,6 @@ public class Test {
 		
 		b2.m1();
 		b2.m2();
+		b2.m3();
 	}
 }
