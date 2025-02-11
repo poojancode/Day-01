@@ -12,5 +12,10 @@ public class C extends B {
 		System.out.println("C's m2() method");
 		
 	}
+	
+	@Override
+	public void m3() {
+		System.out.println("C's m3() method");
+	}
 
 }
